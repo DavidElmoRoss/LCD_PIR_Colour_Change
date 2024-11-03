@@ -1,0 +1,12 @@
+BUILD
+?mbed
+compile_commands?json
+?clangd
+?cache
+Grove_LCD_RGB_Backlight
+mbed
+.mbed
+compile_commands.json
+.clangd
+.cache
+grove_lcd_rgb_backlight_v5
